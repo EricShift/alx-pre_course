@@ -1,3 +1,3 @@
 Hello World!
-Welcome to my main Brach
+Welcome to my main Branch, 
 I'm a Student at ALX
